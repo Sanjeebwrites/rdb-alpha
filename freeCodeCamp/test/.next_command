@@ -101,3 +101,8 @@ ls --color=auto
 touch index.js
 touch .gitignore
 ls --color=auto
+help
+help ls
+command ls
+help ls
+ls --color=auto --help
