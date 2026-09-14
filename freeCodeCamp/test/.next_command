@@ -73,3 +73,6 @@ cd src
 pwd
 /
 ls --color=auto
+more indedx.js
+__vsc_prompt_cmd_original
+more index.js
