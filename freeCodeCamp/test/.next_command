@@ -267,3 +267,6 @@ ls --color=auto
 mb website website-boilerplate
 mv website website-boilerplate
 ls --color=auto
+copy --help
+copy -h
+cp --help
