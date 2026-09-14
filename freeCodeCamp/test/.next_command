@@ -61,3 +61,4 @@ ls --color=auto
 ls --color=auto -l
 ccd haass
 cd has
+ls --color=auto
