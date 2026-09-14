@@ -79,3 +79,5 @@ more index.js
 cd has
 cd ..
 cd ..
+pwd
+cd ../..
