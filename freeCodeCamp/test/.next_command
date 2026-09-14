@@ -227,3 +227,4 @@ rm -r icons
 pwd
 cd ../..
 mkdir client/assets/icons
+mv CodeAlly.svg client/assets/icons
