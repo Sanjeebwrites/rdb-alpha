@@ -270,3 +270,4 @@ ls --color=auto
 copy --help
 copy -h
 cp --help
+cp -r website-boilerplate toms-website
