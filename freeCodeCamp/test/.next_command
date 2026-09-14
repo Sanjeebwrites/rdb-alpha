@@ -198,3 +198,8 @@ cd images
 cd ../../..
 cd images
 ls --color=auto
+cd ..
+mv header.png client/assets/images
+mv images/ header.png client/assets/images
+mv images/header.png client/assets/images
+mv client/assets/images/header.png .
