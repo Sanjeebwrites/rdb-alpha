@@ -163,3 +163,6 @@ mv menlo.otf fonts
 find
 mkdir client
 mkdir client/src
+touch client/src/index.html
+rm client/src/index.html
+mv index.html client/src
