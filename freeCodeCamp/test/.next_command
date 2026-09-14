@@ -106,3 +106,4 @@ help ls
 command ls
 help ls
 ls --color=auto --help
+ls --color=auto -a
