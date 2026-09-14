@@ -220,3 +220,10 @@ __vsc_prompt_cmd_original
 rm images/background.jpg
 rmdir images
 ls --color=auto
+cd client/assets
+mkdir icons
+rm icons
+rm -r icons
+pwd
+cd ../..
+mkdir client/assets/icons
