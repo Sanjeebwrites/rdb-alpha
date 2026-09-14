@@ -89,3 +89,4 @@ rm -f websit
 rm -r website
 rm -r websit
 mkdir website
+ls --color=auto
