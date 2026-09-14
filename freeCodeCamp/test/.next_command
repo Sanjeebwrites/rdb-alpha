@@ -203,3 +203,6 @@ mv header.png client/assets/images
 mv images/ header.png client/assets/images
 mv images/header.png client/assets/images
 mv client/assets/images/header.png .
+ls --color=auto images/
+cd images
+ls --color=auto
