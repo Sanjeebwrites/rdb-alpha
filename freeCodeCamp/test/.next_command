@@ -83,3 +83,9 @@ pwd
 cd ../..
 ls --color=auto
 clear
+mkdir websit
+rm websit
+rm -f websit
+rm -r website
+rm -r websit
+mkdir website
