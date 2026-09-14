@@ -155,3 +155,4 @@ ls --color=auto
 pwd
 ls --color=auto
 mkdir fonts
+ls --color=auto
