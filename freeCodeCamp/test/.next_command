@@ -42,3 +42,4 @@ echo hello terminal
 pwdw
 pwwd
 pwd
+ls --color=auto
