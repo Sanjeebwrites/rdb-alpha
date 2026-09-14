@@ -236,3 +236,4 @@ find
 mv fonts client/assets
 mv client/assets/fonts .
 mkdir client/assets/fonts
+touch client/assets/fonts/roboto-bold.woff
